@@ -1,6 +1,8 @@
 # Search Cep
 
 Esse é um projeto em que você pode pesquisar qualquer endereço a partir do cep.
+![Captura de tela 2022-10-24 145201](https://user-images.githubusercontent.com/105306316/197594704-eaf172ce-9b7a-45bd-9a84-b142a4ee116e.png)
+![Captura de tela 2022-10-24 145201](https://user-images.githubusercontent.com/105306316/197594733-1d32fd7b-c7b8-49a6-bc81-b192f9ce2574.png)
 
 # Getting Started with Create React App
 
