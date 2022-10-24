@@ -1,3 +1,7 @@
+# Search Cep
+
+Esse é um projeto em que você pode pesquisar qualquer endereço a partir do cep.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
