@@ -1,6 +1,6 @@
 # Search Cep
 
-Esse é um projeto em que você pode pesquisar qualquer endereço a partir do cep.
+This is a project where you can search for any address from the zip code.
 ![Captura de tela 2022-10-24 145201](https://user-images.githubusercontent.com/105306316/197594704-eaf172ce-9b7a-45bd-9a84-b142a4ee116e.png)
 ![Captura de tela 2022-10-24 145130](https://user-images.githubusercontent.com/105306316/197594811-d8d1570d-011a-43ad-89b2-4ee6d814c623.png)
 
